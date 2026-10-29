@@ -1,0 +1,53 @@
+feature,mean_abs_shap
+tenure,1.0315388872701365
+Contract = Month-to-month,0.3667999477705227
+Contract = Two year,0.2776461526067811
+InternetService = Fiber optic,0.2742280696817063
+MonthlyCharges,0.27316800153285087
+InternetService = DSL,0.23554575412553805
+TotalCharges,0.2340901527203497
+TenureGroup = 49-72,0.22831861819235505
+PaperlessBilling = No,0.13702674276103605
+PaymentMethod = Electronic check,0.13025383084391073
+MultipleLines = No,0.11810911266637286
+TenureGroup = 13-24,0.11744724881572058
+OnlineSecurity = No,0.11296414096998922
+Dependents = Yes,0.10172582036093088
+TechSupport = No,0.10018617671954665
+StreamingMovies = Yes,0.09503688398584673
+StreamingMovies = No,0.09040830832988833
+OnlineSecurity = Yes,0.08354899568879802
+NumServices,0.07704923482295956
+TechSupport = Yes,0.07247886345618847
+PaymentMethod = Credit card (automatic),0.06827801712629598
+StreamingTV = Yes,0.06658691046534408
+OnlineBackup = No,0.061906544030952394
+StreamingTV = No internet service,0.06189072571202458
+InternetService = No,0.06189072571202458
+StreamingMovies = No internet service,0.06189072571202458
+TechSupport = No internet service,0.06189072571202458
+OnlineSecurity = No internet service,0.06189072571202458
+DeviceProtection = No internet service,0.06189072571202458
+OnlineBackup = No internet service,0.06189072571202458
+StreamingTV = No,0.060979051777477526
+PaperlessBilling = Yes,0.06062157256917308
+PaymentMethod = Bank transfer (automatic),0.05710239075483308
+MultipleLines = Yes,0.05567830062106982
+TenureGroup = 25-48,0.0548476737202643
+OnlineBackup = Yes,0.04454749255334738
+Partner = Yes,0.043285097758399456
+gender = Male,0.042589674759629145
+gender = Female,0.0407777232199313
+Partner = No,0.03983453410776736
+SeniorCitizen = No,0.03790741462617742
+PaymentMethod = Mailed check,0.03737266315054021
+TenureGroup = 0-12,0.03654257134595232
+Dependents = No,0.03280436663359543
+PhoneService = Yes,0.02326310217444445
+Contract = One year,0.02300365503040554
+AvgChargePerMonth,0.020878099619012134
+SeniorCitizen = Yes,0.019025698726541886
+DeviceProtection = No,0.017148947905027252
+PhoneService = No,0.009086893370392052
+MultipleLines = No phone service,0.009086893370392052
+DeviceProtection = Yes,0.008181903783660705

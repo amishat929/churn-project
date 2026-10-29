@@ -1,0 +1,24 @@
+{
+  "best_model": "Logistic Regression",
+  "threshold": 0.25,
+  "n_customers": 7043,
+  "churn_rate": 0.2653698707936959,
+  "test_size": 1409,
+  "at_threshold": {
+    "precision": 0.41037735849056606,
+    "recall": 0.93048128342246,
+    "f1": 0.5695581014729951,
+    "contacted": 848,
+    "true_positives": 348,
+    "false_positives": 500,
+    "false_negatives": 26,
+    "true_negatives": 535
+  },
+  "business": {
+    "offer_cost": 20.0,
+    "customer_value": 500.0,
+    "success_rate": 0.3,
+    "net_benefit_model_test": 35239.99999999999,
+    "net_benefit_offer_everyone_test": 27920.0
+  }
+}
